@@ -1,4 +1,4 @@
-module github.com/cometbft/cometbft
+module github.com/s1nus/coolchain-cometbft
 
 go 1.20
 
